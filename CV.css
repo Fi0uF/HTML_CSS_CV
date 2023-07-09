@@ -525,22 +525,7 @@ main {
       top: 0px;
       width: 327px;
     }
-    .description-3 {
-      align-self: stretch;
-      flex-shrink: 0;
-      height: 38px;
-      position: relative;
-    }
-    .desc3-text {
-      color: var(--medium-gray, #696969);
-      text-align: left;
-      font: 300 12px/12.34px "Roboto", sans-serif;
-      position: absolute;
-      left: 0px;
-      top: -9px;
-      width: 327px;
-      height: 29px;
-    }
+    x
     .soft-skills {
       display: flex;
       flex-direction: column;
@@ -580,10 +565,26 @@ main {
       height: 202px;
       position: relative;
     }
-    .description-4 {
+    .description-3 {
       align-self: stretch;
       flex-shrink: 0;
       height: 40px;
+      position: relative;
+    }
+    .desc3-text {
+      color: var(--medium-gray, #696969);
+      text-align: left;
+      font: 300 12px/12.34px "Roboto", sans-serif;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 327px;
+      height: 58.46px;
+    }
+    .description-4 {
+      align-self: stretch;
+      flex-shrink: 0;
+      height: 38px;
       position: relative;
     }
     .desc4-text {
@@ -594,12 +595,12 @@ main {
       left: 0px;
       top: 0px;
       width: 327px;
-      height: 58.46px;
+      height: 51.57px;
     }
     .description-5 {
       align-self: stretch;
       flex-shrink: 0;
-      height: 38px;
+      height: 28px;
       position: relative;
     }
     .desc5-text {
@@ -610,12 +611,11 @@ main {
       left: 0px;
       top: 0px;
       width: 327px;
-      height: 51.57px;
     }
     .description-6 {
       align-self: stretch;
       flex-shrink: 0;
-      height: 28px;
+      height: 42px;
       position: relative;
     }
     .desc6-text {
@@ -630,25 +630,10 @@ main {
     .description-7 {
       align-self: stretch;
       flex-shrink: 0;
-      height: 42px;
-      position: relative;
-    }
-    .desc7-text {
-      color: var(--medium-gray, #696969);
-      text-align: left;
-      font: 300 12px/12.34px "Roboto", sans-serif;
-      position: absolute;
-      left: 0px;
-      top: 0px;
-      width: 327px;
-    }
-    .description-8 {
-      align-self: stretch;
-      flex-shrink: 0;
       height: 29px;
       position: relative;
     }
-    .desc8-text {
+    .desc7-text {
       color: var(--medium-gray, #696969);
       text-align: left;
       font: 300 12px/12.34px "Roboto", sans-serif;
