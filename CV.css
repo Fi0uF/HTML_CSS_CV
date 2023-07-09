@@ -1,0 +1,30 @@
+footer {
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #ffffff;
+    padding: 10px;
+    color: #696969;
+    margin-top: auto;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  footer::before {
+    content: "";
+    display: block;
+    width: 87%;
+    height: 0.95px;
+    background-color: #696969;
+    position: absolute;
+    top: -1px;
+    left: 40px;
+    
+  }
+  footer a {
+    color: #696969;
+    font-variant: normal;
+    text-decoration: none;
+  }
